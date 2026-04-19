@@ -1,0 +1,14 @@
+SMAP
+useJavaObject_jsp.java
+JSP
+*S JSP
+*F
++ 0 useJavaObject.jsp
+useJavaObject.jsp
+*L
+5,13:45
+18,3:59
+20,2:62
+22:64,3
+23,3:67
+*E

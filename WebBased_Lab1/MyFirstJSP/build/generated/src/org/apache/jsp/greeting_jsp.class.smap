@@ -1,0 +1,16 @@
+SMAP
+greeting_jsp.java
+JSP
+*S JSP
+*F
++ 0 greeting.jsp
+greeting.jsp
+*L
+5,13:45
+19,8:60
+26,2:68
+28:70,3
+29:73
+30:74,3
+31,4:77
+*E
